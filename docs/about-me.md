@@ -6,9 +6,9 @@
 - 2015 年毕业/前端从业 4 年
 - 本科/山东科技大学/计算机科学与技术
 - 联系方式：17710835275 / zhaomingxia2011@163.com
-- 在线简历：https://yangconghou.github.io
-- 博客：https://blog.csdn.net/mingxia_Z
-- github：https://github.com/yangconghou
+- 在线简历：[https://yangconghou.github.io](https://yangconghou.github.io)
+- 博客：[https://blog.csdn.net/mingxia_Z](https://blog.csdn.net/mingxia_Z)
+- github：[https://github.com/yangconghou](https://github.com/yangconghou)
 
 ## 专业技能
 
@@ -30,7 +30,7 @@
 - 根据产品需求设计和实现合理的前端页面结构方案
 - 根据业务需求封装高质量的前端组件，将组件化方案应用到平台中
 - 进行 Web 前端开发，并持续迭代优化交互体验
-- 研究前沿技术研究与新技术应用，提高团队开发效率
+- 前沿技术研究与新技术应用，提高团队开发效率
 
 ### 2015/07/21-2017/05/27 北京深度时代科技有限公司 前端开发工程师
 
